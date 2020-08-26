@@ -4,6 +4,8 @@
 
 适配器模式, 类似于接口转换器
 用于集成统一不同的接口
+
+
 """
 from typing import Callable, TypeVar
 

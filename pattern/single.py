@@ -63,9 +63,3 @@ class Foo(object):
 foo = Foo()
 foo1 = Foo()
 print(foo == foo1)
-
-
-
-
-
-

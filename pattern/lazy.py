@@ -6,7 +6,6 @@
 
 """
 
-
 class lazy_property(object):
     """
     利用描述符, 来hock属性访问
@@ -34,7 +33,3 @@ class A(object):
 a = A()
 print(a.run)
 print(a.run)
-
-
-
-
